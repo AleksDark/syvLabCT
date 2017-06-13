@@ -1,0 +1,33 @@
+\select@language {english}
+\contentsline {section}{Introduction}{1}{Doc-Start}
+\contentsline {section}{Methods}{1}{Doc-Start}
+\contentsline {section}{\numberline {1}Methods and theory, preprocessing}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}CT imaging principle}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Eunice phantom}{2}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}The structure}{2}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}In general}{2}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}CT imaging direction}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Types of external shields}{3}{subsection.1.4}
+\contentsline {section}{\numberline {2}Methods and theory, the simulation}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Spectrum}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Number of simulation particles}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Physics of interaction}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Step-by-step guide}{4}{subsection.2.4}
+\contentsline {section}{\numberline {3}Methods and theory, the analysis}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Organ doses}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Voxel-based analysis}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Change of the 3D dosemap according to shield}{5}{subsection.3.3}
+\contentsline {section}{\numberline {4}Results}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}Relative doses, no shields}{5}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Relative doses, effect of shields}{5}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Absolute doses}{7}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Linkage of relative dose to absolute}{7}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Effects on histograms in conversion between the relative and absolute doses}{8}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Absolute Dose}{8}{subsubsection.4.3.3}
+\contentsline {section}{\numberline {5}Discussion}{8}{section.5}
+\contentsline {section}{\numberline {6}Future improvements}{8}{section.6}
+\contentsline {subsection}{\numberline {6.1}Free Atlas segmentation}{8}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Variance of the model}{8}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Overall}{8}{subsection.6.3}
+\contentsline {section}{Acknowledgments}{8}{section*.30}
+\contentsfinish 
