@@ -12,6 +12,8 @@
 \contentsline {subsection}{\numberline {2.1}Spectrum}{3}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Number of simulation particles}{3}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Physics of interaction}{4}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Photoelectric absorption}{4}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Compton scattering}{4}{subsubsection.2.3.2}
 \contentsline {subsection}{\numberline {2.4}Step-by-step guide}{4}{subsection.2.4}
 \contentsline {section}{\numberline {3}Methods and theory, the analysis}{5}{section.3}
 \contentsline {subsection}{\numberline {3.1}Organ doses}{5}{subsection.3.1}
@@ -19,7 +21,7 @@
 \contentsline {subsection}{\numberline {3.3}Change of the 3D dosemap according to shield}{5}{subsection.3.3}
 \contentsline {section}{\numberline {4}Results}{5}{section.4}
 \contentsline {subsection}{\numberline {4.1}Relative doses, no shields}{5}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Relative doses, effect of shields}{5}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.2}Relative doses, effect of shields}{6}{subsection.4.2}
 \contentsline {subsection}{\numberline {4.3}Absolute doses}{7}{subsection.4.3}
 \contentsline {subsubsection}{\numberline {4.3.1}Linkage of relative dose to absolute}{7}{subsubsection.4.3.1}
 \contentsline {subsubsection}{\numberline {4.3.2}Effects on histograms in conversion between the relative and absolute doses}{8}{subsubsection.4.3.2}
@@ -27,7 +29,7 @@
 \contentsline {section}{\numberline {5}Discussion}{8}{section.5}
 \contentsline {section}{\numberline {6}Future improvements}{8}{section.6}
 \contentsline {subsection}{\numberline {6.1}Free Atlas segmentation}{8}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Variance of the model}{8}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Overall}{8}{subsection.6.3}
-\contentsline {section}{Acknowledgments}{8}{section*.30}
+\contentsline {subsection}{\numberline {6.2}Variance of the model}{9}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Overall}{9}{subsection.6.3}
+\contentsline {section}{Acknowledgments}{9}{section*.30}
 \contentsfinish 

@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.3.8)  9 JUN 2017 18:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.11.18)  14 JUN 2017 19:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **SyvLabTT_Sofiev.tex
 (./SyvLabTT_Sofiev.tex
 LaTeX2e <2014/05/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+Babel <3.9l> and hyphenation patterns for 33 languages loaded.
 (./SelfArx.cls
 Document Class: SelfArx 25/01/2012, v1.0
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
@@ -1385,25 +1385,25 @@ tive
 
 
 ]
-<Images/Tomo_1.png, id=208, 549.05125pt x 478.78876pt>
+<Images/Tomo_1.png, id=220, 549.05125pt x 478.78876pt>
 File: Images/Tomo_1.png Graphic file (type png)
  <use Images/Tomo_1.png>
 Package pdftex.def Info: Images/Tomo_1.png used on input line 220.
 (pdftex.def)             Requested size: 218.17422pt x 190.24821pt.
 
-<Images/Tomo_2.png, id=210, 448.28348pt x 294.84065pt>
+<Images/Tomo_2.png, id=222, 448.28348pt x 294.84065pt>
 File: Images/Tomo_2.png Graphic file (type png)
  <use Images/Tomo_2.png>
 Package pdftex.def Info: Images/Tomo_2.png used on input line 230.
 (pdftex.def)             Requested size: 218.17422pt x 143.49242pt.
 
-<Images/EuniceReal.JPG, id=213, 2457.18pt x 3276.24pt>
+<Images/EuniceReal.JPG, id=225, 2457.18pt x 3276.24pt>
 File: Images/EuniceReal.JPG Graphic file (type jpg)
 
 <use Images/EuniceReal.JPG>
 Package pdftex.def Info: Images/EuniceReal.JPG used on input line 246.
 (pdftex.def)             Requested size: 218.17422pt x 290.84958pt.
- <Images/Eunice.png, id=215, 831.105pt x 871.255pt>
+ <Images/Eunice.png, id=227, 831.105pt x 871.255pt>
 File: Images/Eunice.png Graphic file (type png)
 
 <use Images/Eunice.png>
@@ -1417,7 +1417,7 @@ Overfull \hbox (2.0pt too wide) in paragraph at lines 294--295
  []
 
 [2 <./Images/Tomo_1.png> <./Images/Tomo_2.png> <./Images/EuniceReal.JPG>]
-<Images/Shields.png, id=232, 274.77657pt x 600.74437pt>
+<Images/Shields.png, id=244, 274.77657pt x 600.74437pt>
 File: Images/Shields.png Graphic file (type png)
 
 <use Images/Shields.png>
@@ -1434,170 +1434,190 @@ Overfull \hbox (17.4636pt too wide) in paragraph at lines 372--373
 les.(VIITTEET)
  []
 
-<Images/PhotonNumber.png, id=235, 361.35pt x 216.81pt>
+<Images/PhotonNumber.png, id=247, 361.35pt x 216.81pt>
 File: Images/PhotonNumber.png Graphic file (type png)
 
 <use Images/PhotonNumber.png>
 Package pdftex.def Info: Images/PhotonNumber.png used on input line 377.
 (pdftex.def)             Requested size: 242.41745pt x 145.4505pt.
  [3 <./Images/Eunice.png> <./Images/Shields.png (PNG copy)>]
+Overfull \hbox (39.20068pt too wide) in paragraph at lines 392--393
+\OT1/ptm/m/n/10 (-20) dancy is fol-low-ing [VI-ITE: https://radiopaedia.org/art
+icles/photoelectric-
+ []
+
+
+Overfull \hbox (0.85983pt too wide) in paragraph at lines 403--404
+\OT1/ptm/m/n/10 (-20) [VI-ITE: http://www.sprawls.org/ppmi2/INTERACT/] The pro-
+
+ []
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 389.
- <Images/folderStructure.png, id=250, 416.33804pt x 289.6037pt>
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 410.
+
+Overfull \hbox (12.04941pt too wide) in paragraph at lines 410--412
+[]\OT1/ptm/b/it/10 Rayleigh sironta (klassi-nen sironta), suora beamin, sironta
+
+ []
+
+<Images/folderStructure.png, id=263, 416.33804pt x 289.6037pt>
 File: Images/folderStructure.png Graphic file (type png)
 
 <use Images/folderStructure.png>
-Package pdftex.def Info: Images/folderStructure.png used on input line 397.
+Package pdftex.def Info: Images/folderStructure.png used on input line 418.
 (pdftex.def)             Requested size: 242.41745pt x 168.62427pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--413
+Underfull \hbox (badness 10000) in paragraph at lines 429--434
 
  []
 
 
-Package tabulary Warning: No suitable columns! on input line 439.
+Package tabulary Warning: No suitable columns! on input line 460.
 
-<Images/startingImage.png, id=253, 596.48935pt x 439.90434pt>
+[4 <./Images/PhotonNumber.png> <./Images/folderStructure.png>]
+<Images/startingImage.png, id=284, 596.48935pt x 439.90434pt>
 File: Images/startingImage.png Graphic file (type png)
 
 <use Images/startingImage.png>
-Package pdftex.def Info: Images/startingImage.png used on input line 446.
+Package pdftex.def Info: Images/startingImage.png used on input line 467.
 (pdftex.def)             Requested size: 242.41745pt x 178.77782pt.
- [4 <./Images/PhotonNumber.png> <./Images/folderStructure.png> <./Images/starti
-ngImage.png>]
-Overfull \hbox (2.0pt too wide) in paragraph at lines 621--622
+
+Overfull \hbox (2.0pt too wide) in paragraph at lines 642--643
  [] 
  []
 
-<Images/NoShieldLungs.png, id=275, 421.575pt x 316.18124pt>
+<Images/NoShieldLungs.png, id=288, 421.575pt x 316.18124pt>
 File: Images/NoShieldLungs.png Graphic file (type png)
 
 <use Images/NoShieldLungs.png>
-Package pdftex.def Info: Images/NoShieldLungs.png used on input line 630.
+Package pdftex.def Info: Images/NoShieldLungs.png used on input line 651.
 (pdftex.def)             Requested size: 242.41745pt x 181.81728pt.
-
-<Images/NoShieldLiver.png, id=279, 421.575pt x 316.18124pt>
+ [5 <./Images/startingImage.png>]
+<Images/NoShieldLiver.png, id=306, 421.575pt x 316.18124pt>
 File: Images/NoShieldLiver.png Graphic file (type png)
 
 <use Images/NoShieldLiver.png>
-Package pdftex.def Info: Images/NoShieldLiver.png used on input line 641.
+Package pdftex.def Info: Images/NoShieldLiver.png used on input line 662.
 (pdftex.def)             Requested size: 242.41745pt x 181.81728pt.
 
-<Images/NoShieldKidneys.png, id=280, 421.575pt x 316.18124pt>
+<Images/NoShieldKidneys.png, id=307, 421.575pt x 316.18124pt>
 File: Images/NoShieldKidneys.png Graphic file (type png)
 
 <use Images/NoShieldKidneys.png>
-Package pdftex.def Info: Images/NoShieldKidneys.png used on input line 648.
+Package pdftex.def Info: Images/NoShieldKidneys.png used on input line 669.
 (pdftex.def)             Requested size: 242.41745pt x 181.81728pt.
 
-<Images/NoShieldBreasts.png, id=281, 421.575pt x 316.18124pt>
+<Images/NoShieldBreasts.png, id=308, 421.575pt x 316.18124pt>
 File: Images/NoShieldBreasts.png Graphic file (type png)
 
 <use Images/NoShieldBreasts.png>
-Package pdftex.def Info: Images/NoShieldBreasts.png used on input line 655.
+Package pdftex.def Info: Images/NoShieldBreasts.png used on input line 676.
 (pdftex.def)             Requested size: 242.41745pt x 181.81728pt.
 
 
-LaTeX Warning: Reference `fig:BShieldIntensityLungs' on page 5 undefined on inp
-ut line 669.
+LaTeX Warning: Reference `fig:BShieldIntensityLungs' on page 6 undefined on inp
+ut line 690.
 
-<Images/MBShieldBreasts.png, id=282, 421.575pt x 316.18124pt>
+<Images/MBShieldBreasts.png, id=309, 421.575pt x 316.18124pt>
 File: Images/MBShieldBreasts.png Graphic file (type png)
 
 <use Images/MBShieldBreasts.png>
-Package pdftex.def Info: Images/MBShieldBreasts.png used on input line 672.
+Package pdftex.def Info: Images/MBShieldBreasts.png used on input line 693.
 (pdftex.def)             Requested size: 242.41745pt x 181.81728pt.
- [5 <./Images/NoShieldLungs.png (PNG copy)>]
+
 
 LaTeX Warning: Text page 6 contains only floats.
 
-<Images/LungsAllShields.png, id=300, 578.16pt x 433.62pt>
+[6 <./Images/NoShieldLungs.png (PNG copy)> <./Images/NoShieldLiver.png (PNG cop
+y)> <./Images/NoShieldKidneys.png (PNG copy)> <./Images/NoShieldBreasts.png (PN
+G copy)> <./Images/MBShieldBreasts.png (PNG copy)>]
+<Images/LungsAllShields.png, id=323, 578.16pt x 433.62pt>
 File: Images/LungsAllShields.png Graphic file (type png)
 
 <use Images/LungsAllShields.png>
-Package pdftex.def Info: Images/LungsAllShields.png used on input line 686.
+Package pdftex.def Info: Images/LungsAllShields.png used on input line 707.
 (pdftex.def)             Requested size: 242.41745pt x 181.80818pt.
 
-<Images/BreastsAllShields.png, id=301, 578.16pt x 433.62pt>
+<Images/BreastsAllShields.png, id=324, 578.16pt x 433.62pt>
 File: Images/BreastsAllShields.png Graphic file (type png)
 
 <use Images/BreastsAllShields.png>
-Package pdftex.def Info: Images/BreastsAllShields.png used on input line 695.
+Package pdftex.def Info: Images/BreastsAllShields.png used on input line 716.
 (pdftex.def)             Requested size: 242.41745pt x 181.80818pt.
 
-<Images/KidneysAllShields.png, id=302, 578.16pt x 433.62pt>
+<Images/KidneysAllShields.png, id=325, 578.16pt x 433.62pt>
 File: Images/KidneysAllShields.png Graphic file (type png)
 
 <use Images/KidneysAllShields.png>
-Package pdftex.def Info: Images/KidneysAllShields.png used on input line 705.
+Package pdftex.def Info: Images/KidneysAllShields.png used on input line 726.
 (pdftex.def)             Requested size: 242.41745pt x 181.80818pt.
 
-<Images/LiverAllShields.png, id=303, 578.16pt x 433.62pt>
+<Images/LiverAllShields.png, id=326, 578.16pt x 433.62pt>
 File: Images/LiverAllShields.png Graphic file (type png)
 
 <use Images/LiverAllShields.png>
-Package pdftex.def Info: Images/LiverAllShields.png used on input line 715.
+Package pdftex.def Info: Images/LiverAllShields.png used on input line 736.
 (pdftex.def)             Requested size: 242.41745pt x 181.80818pt.
 
 
-Package tabulary Warning: No suitable columns! on input line 752.
+Package tabulary Warning: No suitable columns! on input line 773.
 
-[6 <./Images/NoShieldLiver.png (PNG copy)> <./Images/NoShieldKidneys.png (PNG c
-opy)> <./Images/NoShieldBreasts.png (PNG copy)> <./Images/MBShieldBreasts.png (
-PNG copy)> <./Images/LungsAllShields.png (PNG copy)>]
-Overfull \hbox (13.2495pt too wide) in paragraph at lines 760--762
+
+Overfull \hbox (13.2495pt too wide) in paragraph at lines 781--783
 \OT1/ptm/b/it/10 h[]airi[]oiden takia maalataan pieni alue val-i-tun pis-teen p
 aikoissa,
  []
 
-<Images/DoseIntensityDef.png, id=313, 1587.9325pt x 1742.51pt>
+<Images/DoseIntensityDef.png, id=328, 1587.9325pt x 1742.51pt>
 File: Images/DoseIntensityDef.png Graphic file (type png)
 
 <use Images/DoseIntensityDef.png>
-Package pdftex.def Info: Images/DoseIntensityDef.png used on input line 766.
+Package pdftex.def Info: Images/DoseIntensityDef.png used on input line 787.
 (pdftex.def)             Requested size: 242.41745pt x 265.99162pt.
 
 
-Package tabulary Warning: No suitable columns! on input line 790.
+Package tabulary Warning: No suitable columns! on input line 811.
 
-[7 <./Images/BreastsAllShields.png (PNG copy)> <./Images/KidneysAllShields.png 
-(PNG copy)> <./Images/LiverAllShields.png (PNG copy)>]
-Overfull \hbox (2.0pt too wide) in paragraph at lines 818--819
+[7 <./Images/LungsAllShields.png (PNG copy)> <./Images/BreastsAllShields.png (P
+NG copy)> <./Images/KidneysAllShields.png (PNG copy)> <./Images/LiverAllShields
+.png (PNG copy)>]
+Overfull \hbox (2.0pt too wide) in paragraph at lines 839--840
  [] 
  []
 
 
-Package tabulary Warning: No suitable columns! on input line 871.
+Package tabulary Warning: No suitable columns! on input line 892.
 
-
-Overfull \hbox (4.06148pt too wide) in paragraph at lines 899--900
+[8 <./Images/DoseIntensityDef.png>]
+Overfull \hbox (4.06148pt too wide) in paragraph at lines 920--921
 \OT1/ptm/m/n/10 (-20) tions, ver-i-fi-ca-tion and \OT1/ptm/b/it/10 ***** jatka 
 t[]anne jo-tain yleist[]a....***** 
  []
 
-<TT_SyvLabraSofiev_Plan.png, id=337, 2259.44125pt x 1347.0325pt>
+<TT_SyvLabraSofiev_Plan.png, id=359, 2259.44125pt x 1347.0325pt>
 File: TT_SyvLabraSofiev_Plan.png Graphic file (type png)
 
 <use TT_SyvLabraSofiev_Plan.png>
-Package pdftex.def Info: TT_SyvLabraSofiev_Plan.png used on input line 915.
+Package pdftex.def Info: TT_SyvLabraSofiev_Plan.png used on input line 936.
 (pdftex.def)             Requested size: 500.484pt x 298.36237pt.
 
-Overfull \hbox (2.0pt too wide) in paragraph at lines 926--927
+Overfull \hbox (2.0pt too wide) in paragraph at lines 947--948
  [] 
  []
 
 No file SyvLabTT_Sofiev.bbl.
 
 AED: lastpage setting LastPage
-[8 <./Images/DoseIntensityDef.png>] [9 <./TT_SyvLabraSofiev_Plan.png (PNG copy)
->]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 943.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 943.
+[9
+
+] [10 <./TT_SyvLabraSofiev_Plan.png (PNG copy)>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 964.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 964.
  (./SyvLabTT_Sofiev.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 943.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 943.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 964.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 964.
 Package rerunfilecheck Info: File `SyvLabTT_Sofiev.out' has not changed.
-(rerunfilecheck)             Checksum: 4D5F119FD5164F8B659691A618002C28;2139.
+(rerunfilecheck)             Checksum: CCA27CDF054AB116D0594EFE438B4648;2301.
 
 
 LaTeX Warning: There were undefined references.
@@ -1605,15 +1625,15 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 943.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 964.
  ) 
 Here is how much of TeX's memory you used:
- 24910 strings out of 493105
- 449370 string characters out of 6137073
- 675110 words of memory out of 5000000
- 27574 multiletter control sequences out of 15000+600000
- 63187 words of font info for 223 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
+ 24923 strings out of 494336
+ 449525 string characters out of 6163194
+ 678083 words of memory out of 5000000
+ 27376 multiletter control sequences out of 15000+600000
+ 63425 words of font info for 227 fonts, out of 8000000 for 9000
+ 417 hyphenation exceptions out of 8191
  62i,12n,80p,1023b,759s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
@@ -1622,14 +1642,15 @@ fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
 rw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/
 uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
-rw/times/utmri8a.pfb>
-Output written on SyvLabTT_Sofiev.pdf (9 pages, 5339637 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a
+.pfb>
+Output written on SyvLabTT_Sofiev.pdf (10 pages, 5345530 bytes).
 PDF statistics:
- 412 PDF objects out of 1000 (max. 8388607)
- 330 compressed objects within 4 object streams
- 89 named destinations out of 1000 (max. 500000)
- 54628 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 436 PDF objects out of 1000 (max. 8388607)
+ 350 compressed objects within 4 object streams
+ 93 named destinations out of 1000 (max. 500000)
+ 54644 words of extra memory for PDF output out of 61914 (max. 10000000)
 
