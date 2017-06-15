@@ -13,21 +13,22 @@
 \BOOKMARK [2][-]{subsection.2.3}{Physics of interaction}{section.2}% 13
 \BOOKMARK [3][-]{subsubsection.2.3.1}{Photoelectric absorption}{subsection.2.3}% 14
 \BOOKMARK [3][-]{subsubsection.2.3.2}{Compton scattering}{subsection.2.3}% 15
-\BOOKMARK [2][-]{subsection.2.4}{Step-by-step guide}{section.2}% 16
-\BOOKMARK [1][-]{section.3}{Methods and theory, the analysis}{}% 17
-\BOOKMARK [2][-]{subsection.3.1}{Organ doses}{section.3}% 18
-\BOOKMARK [2][-]{subsection.3.2}{Voxel-based analysis}{section.3}% 19
-\BOOKMARK [2][-]{subsection.3.3}{Change of the 3D dosemap according to shield}{section.3}% 20
-\BOOKMARK [1][-]{section.4}{Results}{}% 21
-\BOOKMARK [2][-]{subsection.4.1}{Relative doses, no shields}{section.4}% 22
-\BOOKMARK [2][-]{subsection.4.2}{Relative doses, effect of shields}{section.4}% 23
-\BOOKMARK [2][-]{subsection.4.3}{Absolute doses}{section.4}% 24
-\BOOKMARK [3][-]{subsubsection.4.3.1}{Linkage of relative dose to absolute}{subsection.4.3}% 25
-\BOOKMARK [3][-]{subsubsection.4.3.2}{Effects on histograms in conversion between the relative and absolute doses}{subsection.4.3}% 26
-\BOOKMARK [3][-]{subsubsection.4.3.3}{Absolute Dose}{subsection.4.3}% 27
-\BOOKMARK [1][-]{section.5}{Discussion}{}% 28
-\BOOKMARK [1][-]{section.6}{Future improvements}{}% 29
-\BOOKMARK [2][-]{subsection.6.1}{Free Atlas segmentation}{section.6}% 30
-\BOOKMARK [2][-]{subsection.6.2}{Variance of the model}{section.6}% 31
-\BOOKMARK [2][-]{subsection.6.3}{Overall}{section.6}% 32
-\BOOKMARK [1][-]{section*.30}{Acknowledgments}{}% 33
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Rayleigh scattering}{subsection.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.4}{Step-by-step guide}{section.2}% 17
+\BOOKMARK [1][-]{section.3}{Methods and theory, the analysis}{}% 18
+\BOOKMARK [2][-]{subsection.3.1}{Organ doses}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.2}{Voxel-based analysis}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.3}{Change of the 3D dosemap according to shield}{section.3}% 21
+\BOOKMARK [1][-]{section.4}{Results}{}% 22
+\BOOKMARK [2][-]{subsection.4.1}{Relative doses, no shields}{section.4}% 23
+\BOOKMARK [2][-]{subsection.4.2}{Relative doses, effect of shields}{section.4}% 24
+\BOOKMARK [2][-]{subsection.4.3}{Absolute doses}{section.4}% 25
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Linkage of relative dose to absolute}{subsection.4.3}% 26
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Effects on histograms in conversion between the relative and absolute doses}{subsection.4.3}% 27
+\BOOKMARK [3][-]{subsubsection.4.3.3}{Absolute Dose}{subsection.4.3}% 28
+\BOOKMARK [1][-]{section.5}{Discussion}{}% 29
+\BOOKMARK [1][-]{section.6}{Future improvements}{}% 30
+\BOOKMARK [2][-]{subsection.6.1}{Free Atlas segmentation}{section.6}% 31
+\BOOKMARK [2][-]{subsection.6.2}{Variance of the model}{section.6}% 32
+\BOOKMARK [2][-]{subsection.6.3}{Overall}{section.6}% 33
+\BOOKMARK [1][-]{section*.32}{Acknowledgments}{}% 34

@@ -251,6 +251,8 @@ The Eunice phantom is a combination of plastic disks with holes for dose measure
 \end{figure}
 %\todo[color=orange!60]{Anna antoi luvan kuvan käyttöön, miten viittaan siihen?}
 
+In Figure \ref{fig:EuniceReal} on the right half some wires are visible. Those wires are connecting the MOSFET dosimeters inside the phantom to computer. In this laboratory work this possibility was not used. However those dosimeters inside the phantom provide a measurable connection between the simulation results and reality's doses.
+
 
 \subsubsection{In general}
 The first step is to obtain the image of the object of the investigation, in other words to get a 3D image of the phantom. The best results for the studies are produced at 129kV (Annan viitteet), however at equipment available at HUS, such sequence is not an option. The closest options are 120kV and 140 kV. Thus, for the analysis the 120kV sequence has been chosen.
@@ -371,12 +373,12 @@ The model for spectrum is obtained from XXXXXX, and it's probability density fun
 
 In the literature, the most common limitation for the simulation is the processing time, not the amount of particles.(VIITTEET) However, such approach is not practical, since it limits the reproducibility on another machine.
 
-For this reason, we evaluated at a range from 10e8 to 10e11 and observed the results in Fig \ref{fig:PhotonNumber}. 
+For this reason, we evaluated at a range from $10^8$ to $10^{11}$ and observed the results in Fig \ref{fig:PhotonNumber}. 
 
 \begin{figure}[!hbt]\centering
 \includegraphics[width=\linewidth]{PhotonNumber}
 %\missingfigure{Spektrin kuva}
-\caption{Normalized dose distributions from 10e8 to 10e11 in the chest.}
+\caption{Normalized dose distributions from $10^8$ to $10^{11}$ in the chest.}
 \label{fig:PhotonNumber}
 \end{figure}
 
@@ -405,10 +407,19 @@ In a Compton scattering a portion of photon energy is absorbed and a new photon 
 Thus, the shields have only a minor effect basing on number of photons reduction, but otherway the dose affecting factors remain the same.
 
 
+\subsubsection{Rayleigh scattering}
 
-\textit{\textbf{Rayleigh sironta (klassinen sironta), suora beamin, sironta (scattering)
-}}.
-.
+Rayleigh scattering explains the situations of a protected areas still getting some dose. The principle is that incoming beam (photons) can scatter changing the direction of movement. The remaining intensity of the beam is described with the equation [VIITE: Seinfeld and Pandis, Atmospheric Chemistry and Physics, 2nd Edition, John Wiley and Sons, New Jersey 2006, Chapter 15.1.1]:
+
+\begin{equation}
+I=I_0 \frac{1+cos^2 \theta}{2R^2} \left( \frac{2 \pi}{\lambda} \right)^4 \left( \frac{n^2 -1}{n^2 +2} \right) \left(\frac{d}{2} \right)^6
+\end{equation}
+where $\lambda$ is wavelength, d is the distance between scattering materia's components, n is refractive index, and R is the distance to the particle at the start where the intensity $I_0$ is measured.
+
+
+%\textit{\textbf{Rayleigh sironta (klassinen sironta), suora beamin, sironta (scattering)
+%}}.
+
 
 \subsection{Step-by-step guide}
 For some strange reason the GPU version works well only with folders located on the desktop. Thus:\\
@@ -472,6 +483,23 @@ This graphical user interface consists of 2 blocks: Visualization on the right, 
  \textit{Note: This software produces report message about each completed task and tilts in case some action is taken inside it during the simulation, so waiting for the report is highly recommended.}
 %\lipsum[10] % Dummy text
 
+When the process ends it pop ups the Figure \ref{fig:guiSuccess}.
+
+\begin{figure}[ht]\centering
+\includegraphics[width=\linewidth]{guiSuccess}
+\caption{The message window when the simulation has ended. Before getting this message, it might be unwise to touch the computer.}
+\label{fig:guiSuccess}
+\end{figure}
+
+Then by selecting from the upper menu "View" $\rightarrow$ "Dose" an image similar to Figure \ref{fig:guiDoseCalculated} is shown.
+
+\begin{figure}[ht]\centering
+\includegraphics[width=\linewidth]{guiDoseCalculated}
+\caption{From upper menu select View $\rightarrow$ Dose.}
+\label{fig:guiDoseCalculated}
+\end{figure}
+
+This is the result wanted to obtain from the Impact MC software, now moving to analysis.
 
 % http://tex.stackexchange.com/questions/79369/formatting-table-border-and-text-alignment-in-latex-table
 
@@ -522,16 +550,6 @@ This graphical user interface consists of 2 blocks: Visualization on the right, 
 %\end{table}
 
 
-
-.
-\vspace{10mm}
-.\\
-\textbf{
-\emph{To be continued, kopioi Alexey\_labra.doc tänne nätisti.
-}}\\
-.
-\vspace{10mm}
-.
 
 
 
